@@ -12,6 +12,6 @@ import pandas as pd
 path = "/Users/chenjiayu/github/ds_douban_proj/chromedriver"
 
 ds.login_douban(path)
-df = ds.get_comments(27069428,25,path,1)
+df = ds.get_comments(27069428,20,path,1)
 
-
+df.to_csv('douban_duanping')
