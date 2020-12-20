@@ -6,4 +6,4 @@ Repo for the data science douban comments analysis
 - collecrting 500 ( 25 * 20 ) infos , build the raw dataset.
 
 ### 2020-12-20 log
-- learn `git clone`  `touch`  `git add .`  `git commit -m `  `git status`  `git push` .
+- learn `git clone`  `touch`  `git add .`  `git commit -m `  `git status`  `git push`  `git pull`.
